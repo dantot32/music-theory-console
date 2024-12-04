@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniele\\source\\repos\\personal\\MusicTheoryConsole\\MusicTheoryConsole.csproj": {}
+    "C:\\Users\\Daniele\\source\\repos\\personal\\music-theory-console\\MusicTheoryConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniele\\source\\repos\\personal\\MusicTheoryConsole\\MusicTheoryConsole.csproj": {
+    "C:\\Users\\Daniele\\source\\repos\\personal\\music-theory-console\\MusicTheoryConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniele\\source\\repos\\personal\\MusicTheoryConsole\\MusicTheoryConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Daniele\\source\\repos\\personal\\music-theory-console\\MusicTheoryConsole.csproj",
         "projectName": "MusicTheoryConsole",
-        "projectPath": "C:\\Users\\Daniele\\source\\repos\\personal\\MusicTheoryConsole\\MusicTheoryConsole.csproj",
+        "projectPath": "C:\\Users\\Daniele\\source\\repos\\personal\\music-theory-console\\MusicTheoryConsole.csproj",
         "packagesPath": "C:\\Users\\Daniele\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniele\\source\\repos\\personal\\MusicTheoryConsole\\obj\\",
+        "outputPath": "C:\\Users\\Daniele\\source\\repos\\personal\\music-theory-console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniele\\AppData\\Roaming\\NuGet\\NuGet.Config",
